@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Coach Walters' Early Literacy Corner</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: #fff9f0;
+      color: #333;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+    }
+    header {
+      background-color: #f4a261;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    nav {
+      background-color: #2a9d8f;
+      text-align: center;
+      padding: 10px 0;
+    }
+    nav a {
+      color: white;
+      margin: 0 15px;
+      text-decoration: none;
+      font-weight: bold;
+      font-size: 1.1em;
+    }
+    nav a:hover {
+      text-decoration: underline;
+    }
+    main {
+      max-width: 900px;
+      margin: 20px auto;
+      padding: 0 20px;
+    }
+    section {
+      margin-bottom: 40px;
+      background: white;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    }
+    h1, h2 {
+      color: #264653;
+    }
+    ul.resources-list {
+      list-style-type: none;
+      padding-left: 0;
+    }
+    ul.resources-list li {
+      margin: 8px 0;
+    }
+    a.button {
+      display: inline-block;
+      background-color: #e76f51;
+      color: white;
+      padding: 10px 18px;
+      margin-top: 10px;
+      border-radius: 5px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    a.button:hover {
+      background-color: #d65a3f;
+    }
+    iframe.video {
+      width: 100%;
+      height: 480px;
+      border: none;
+      border-radius: 8px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+    }
+    a.event-link {
+      color: #2a9d8f;
+      font-weight: bold;
+      text-decoration: none;
+    }
+    a.event-link:hover {
+      text-decoration: underline;
+    }
+    .parent-tips-list {
+      margin-top: 10px;
+    }
+    .edu-websites {
+      background: #e0f7fa;
+      padding: 15px;
+      border-radius: 8px;
+      margin-top: 20px;
+    }
+    .edu-websites h3 {
+      margin-top: 0;
+      color: #00796b;
+    }
+    .edu-websites ul {
+      padding-left: 20px;
+    }
+    .spotlight {
+      background-color: #ffe5b4;
+      padding: 15px 20px;
+      border-radius: 8px;
+      margin-top: 20px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    }
+    .sight-words {
+      margin-top: 25px;
+      background: #f0f4f8;
+      padding: 15px 20px;
+      border-radius: 8px;
+    }
+    .sight-words h3 {
+      margin-top: 0;
+      color: #264653;
+    }
+    .sight-words a.button {
+      margin-right: 10px;
+      margin-top: 10px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Coach Walters' Early Literacy Corner</h1>
+</header>
+
+<nav>
+  <a href="#mission">Mission</a>
+  <a href="#strategies">Literacy Strategies</a>
+  <a href="#resources">Resource Library</a>
+  <a href="#workshops">Workshops</a>
+  <a href="#parent-tips">Parent Tips</a>
+  <a href="#videos">Videos</a>
+</nav>
+
+<main>
+
+  <section id="mission">
+    <h2>Our Mission</h2>
+    <p>We believe every child deserves the chance to become a confident reader. This site shares practical tools and expert-backed strategies to empower educators and families in fostering early literacy skills.</p>
+    <p><em>~ by Coach Walters</em></p>
+  </section>
+
+  <section id="strategies">
+    <h2>Research-Based Literacy Strategies</h2>
+    <p>Explore methods proven to support early reading and writing development, including:</p>
+    <ul>
+      <li><strong>Phonemic Awareness:</strong> Activities that help children hear and manipulate sounds.</li>
+      <li><strong>Interactive Read-Alouds:</strong> Engaging children with books and questioning techniques.</li>
+      <li><strong>Print Awareness:</strong> Teaching children about letters, words, and how print works.</li>
+      <li><strong>Vocabulary Building:</strong> Introducing new words in meaningful contexts.</li>
+    </ul>
+
+    <div class="spotlight">
+      <h3>Spotlight Skill of the Month</h3>
+      <p><strong>Reading Fluency</strong> is the ability to read text accurately, at an appropriate rate, and with expression. It is essential for comprehension and engagement.</p>
+      <p>Key strategies include:</p>
+      <ul>
+        <li>Repeated Reading with Feedback</li>
+        <li>Echo Reading</li>
+        <li>Incorporating Technology Tools</li>
+        <li>Performance-Based Reading Strategies (e.g., Readers’ Theater)</li>
+        <li>Short, Structured Fluency Drills</li>
+      </ul>
+      <p>These strategies support improved accuracy, rate, and prosody, helping students become confident, motivated readers.</p>
+      <iframe 
+  src="https://docs.google.com/presentation/d/e/2PACX-1vRRGX6fVDfEpIN43Zf7KF2Z8ROSz1qFSe1AU-2c6ZTBVPyzGpvFxaRn7kjPS0Sm_g/pubembed?start=true&loop=false&delayms=5000" 
+  frameborder="0" 
+  width="100%" 
+  height="480" 
+  allowfullscreen="true" 
+  mozallowfullscreen="true" 
+  webkitallowfullscreen="true">
+</iframe>
+      </a>
+    </div>
+  </section>
+
+  <section id="resources">
+    <h2>Resource Library</h2>
+    <p>Download or view free materials to use in your classroom or at home:</p>
+    <ul class="resources-list">
+      <li>
+        <a href="https://youtu.be/O_bjx8VjnHQ?si=f-JJOpu_8ux_Vg6U" target="_blank" rel="noopener" class="button" title="Phonics Flip Book Activity YouTube Video">
+          Phonics Flip Book Activity (YouTube Video)
+        </a>
+      </li>
+      <li>
+        <a href="https://docs.google.com/document/d/1imY2ckGvzumuc3x-ojoMvCBW-5YhD7mCtRplDfPzbHU/edit?usp=sharing" target="_blank" rel="noopener" class="button" title="View Literature-Based Lesson Plan">
+          Literature-Based Lesson Plan
+        </a>
+      </li>
+      <li>
+        <a href="https://www.worksheetworks.com/english/alphabet/alphaflash.html" target="_blank" rel="noopener" class="button" title="Printable Alphabet Flashcards">
+          Printable Alphabet Flashcards
+        </a>
+      </li>
+      <li><a href="#" class="button" download>Early Literacy Assessment Tools</a></li>
+    </ul>
+  </section>
+
+  <section id="workshops">
+    <h2>Upcoming Workshops & Webinars</h2>
+    <p>Learn more about upcoming events at:</p>
+    <ul>
+      <li><a href="https://www.zerotothree.org/our-work/events/#events" target="_blank" rel="noopener" class="event-link">Zero to Three Events</a></li>
+      <li><a href="https://ectacenter.org/events/conferences.asp" target="_blank" rel="noopener" class="event-link">Early Childhood Technical Assistance Center Conferences</a></li>
+    </ul>
+  </section>
+
+  <section id="parent-tips">
+    <h2>Parent Tips for Literacy at Home</h2>
+    <ul class="parent-tips-list">
+      <li>Read aloud daily, making it fun and interactive.</li>
+      <li>Encourage storytelling and conversations about books.</li>
+      <li>Use everyday moments to introduce new words.</li>
+      <li>Create a cozy, inviting reading space.</li>
+      <li>Play rhyming and sound games to develop phonemic awareness.</li>
+    </ul>
+
+    <div class="sight-words">
+      <h3>Sight Word Practice</h3>
+      <p>Help your child build reading confidence by practicing the most important sight words for their grade level:</p>
+      <a href="https://www.sightwords.com/sight-words/games/top-50-kindergarten-words/" target="_blank" rel="noopener" class="button" title="Top 50 Kindergarten Sight Words List">
+        Kindergarten Sight Words List
+      </a>
+      <a href="https://www.sightwords.com/sight-words/games/first-grade-sight-words/" target="_blank" rel="noopener" class="button" title="First Grade Sight Words List">
+        1st Grade Sight Words List
+      </a>
+      <a href="https://www.sightwords.com/sight-words/games/second-grade-sight-words/" target="_blank" rel="noopener" class="button" title="Second Grade Sight Words List">
+        2nd Grade Sight Words List
+      </a>
+    </div>
+
+    <div class="edu-websites">
+      <h3>Top Free Educational Websites for Kindergarteners</h3>
+      <ul>
+        <li><strong><a href="https://pbskids.org/" target="_blank" rel="noopener">PBS KIDS</a>:</strong> Offers a wide range of games, videos, and activities based on popular PBS shows, covering literacy, math, science, and social-emotional skills.</li>
+        <li><strong><a href="https://www.starfall.com/h/" target="_blank" rel="noopener">Starfall</a>:</strong> Provides a structured, phonics-based approach to learning to read, with engaging activities and interactive stories.</li>
+      </ul>
+
+      <h3>Top Paid Subscription Websites</h3>
+      <ul>
+        <li><strong><a href="https://www.splashlearn.com/" target="_blank" rel="noopener">SplashLearn</a>:</strong> Interactive math and literacy games tailored to kindergarten and early grades.</li>
+        <li><strong><a href="https://www.ixl.com/" target="_blank" rel="noopener">IXL</a>:</strong> Comprehensive learning platform offering personalized skill practice in reading, math, and more.</li>
+      </ul>
+    </div>
+  </section>
+
+  <section id="videos">
+  <h2>Literacy Activities Support</h2>
+  <p>My top 5 literacy strategies to meet the needs of comprehension and engagement:</p>
+  <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https://www.canva.com/design/DAGup84Bb-I/osPLGU5uFIJv3Jn91Pt_Zw/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGup84Bb-I&#x2F;osPLGU5uFIJv3Jn91Pt_Zw&#x2F;view?utm_content=DAGup84Bb-I&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Presentation - Supporting Oral Language Development</a> by Charlise Walters
+</section>
+
+</main>
+
+</body>
+</html>
